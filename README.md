@@ -5,3 +5,4 @@ In this project, the goal is to develop a Windows application to replace the cur
 manual process for collecting, analysing and storing “Step Test Data”.
 The current manual process is a paper version. In the paper version the process is
 the following:
+![name](images/step_test_sheet.png)
