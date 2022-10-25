@@ -1,2 +1,0 @@
-	1	|	Paul A	|	20	|	Male	|	15	|	15	|	14 May 2018	|		|	Below Average	|		|
-	2	|	Susan B	|	25	|	Female	|		|		|		|		|		|		|
